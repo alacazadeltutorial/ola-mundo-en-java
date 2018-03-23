@@ -10,9 +10,9 @@ linguaxe de programación.
 Para **compilar** o programa teclear o seguinte (é necesario dispor do *JDK*):
 ```console
 javac OlaMundo.java
-
+```
 Para **executar** o programa:
 ```console
 java OlaMundo
-
+```
 Para saber mais [Aprende Java con Ejercicios](https://learnpub.com/aprendejava) :wink:
