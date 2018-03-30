@@ -7,7 +7,7 @@ public class OlaMundo {
 	public static void main (String[] args) {
 		String laranxa = "\033[33m";
 		String azul = "\033[34m";
-		System.out.println("Olá mundo!");
-		System.out.println("Aqui estamos a facer probas co Git");
+		System.out.println(laranxa + "Olá mundo!");
+		System.out.println(azul + "Aqui estamos a facer probas co Git");
 	}
 }
